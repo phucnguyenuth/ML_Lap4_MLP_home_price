@@ -1,0 +1,5 @@
+Model,MSE,RMSE,MAE,R-squared (R2)
+Random Forest Regression,7.89,2.8089,2.0381,0.8924
+MLP (Neural Network),13.3113,3.6485,2.4872,0.8185
+Decision Tree Regression,17.8156,4.2209,2.7245,0.7571
+Linear Regression,24.2911,4.9286,3.1891,0.6688
